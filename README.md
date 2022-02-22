@@ -1,4 +1,4 @@
-### Steps to launch the livecode
+### Steps to launch the completed livecode
 
 > Execute the following lines one by one!
 
